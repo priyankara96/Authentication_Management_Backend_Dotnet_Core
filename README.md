@@ -1,2 +1,2 @@
-# Authentication_Management_Dotnet_Core
+# Authentication Management Backend (.net core)
 .net core, mongoDB
